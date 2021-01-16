@@ -16,7 +16,9 @@ Junior at the University of Washington studying Geography: Data Science and Envi
 
 # Education
 
-## University of Washington (Seattle, Washington)
+## University of Washington
+
+**Seattle, Washington**
 
 *Bachelor of Arts in Geography: Data Science and Environmental Studies*
 
