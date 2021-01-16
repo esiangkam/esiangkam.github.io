@@ -17,7 +17,9 @@ Junior at the University of Washington studying Geography: Data Science and Envi
 # Education
 
 ## University of Washington (Seattle, Washington)
+
 *Bachelor of Arts in Geography: Data Science and Environmental Studies*
+
 September 2018 - December 2021
 
 - Deans List Autumn 2018, Spring 2020, Summer 2020, and Autumn 2021
@@ -26,8 +28,11 @@ September 2018 - December 2021
 # Work Experience
 
 ## [Environmental Protection Agency, Region 10](https://www.epa.gov/aboutepa/epa-region-10-pacific-northwest)
+
 **Seattle, Washington**
+
 *Student Intern*
+
 January 2021 - Present
 - Develop webinars for tribal childcare research study
 - Create spreadsheets to document data from study and **facilitate communication** of results to tribes
@@ -35,8 +40,11 @@ January 2021 - Present
 - **Interview federal and state agencies** that correspond with tribes across Portland Area Indian Country (Washington, Oregon, Idaho)
 
 ## [University of Washington Student Legal Services](http://depts.washington.edu/slsuw)
+
 **Seattle, Washington**
+
 *Legal Assistant*
+
 June 2019 - Present
 - Upgrade and manage case management system, audit client data
 - **Streamline office workflows** and automate/update legal and training documents
@@ -44,19 +52,23 @@ June 2019 - Present
 - Generate client billing, reconcile attorney pro-cards, train staff on office procedures
 
 *Outreach Intern*
+
 October 2018 - June 2019
 - Corresponded with clients and community stakeholders, reviewed intakes, and scheduled consultations
 - Researched legal information and designed promotional materials for **underserved populations (students of color, undocumented immigrants, LGBTQ+ students, etc.)**; managed office social media and website
 - **Diversified and expanded office caseload** from 400 to 1000 cases through school year
 
 ## Port of Seattle (Seattle, Washington)
+
 *Airfield Security Intern*
+
 July 2018 - August 2018
 - Audited and updated security sensitive logs, metrics, and employee information databases
 - **Reconstructed and edited** employee training handbook and reassessment manual
 - Supported staff in security emergencies; monitored security footage; **decreased administrative documentation backlogs**
 
 *Public Affairs Intern*
+
 June 2016 - August 2016
 - Conducted interviews with travelers, workers, and businesses
 - **Researched and wrote articles** about local community organizations and Port partners
