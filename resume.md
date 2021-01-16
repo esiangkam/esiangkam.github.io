@@ -61,7 +61,9 @@ October 2018 - June 2019
 - Researched legal information and designed promotional materials for **underserved populations (students of color, undocumented immigrants, LGBTQ+ students, etc.)**; managed office social media and website
 - **Diversified and expanded office caseload** from 400 to 1000 cases through school year
 
-## Port of Seattle (Seattle, Washington)
+## [Port of Seattle](https://www.portseattle.org/)
+
+**Seattle, Washington**
 
 *Airfield Security Intern*
 
