@@ -51,6 +51,7 @@ June 2019 - Present
 - **Recruit and supervise outreach intern**, facilitate office partnerships, oversee general office outreach
 - Generate client billing, reconcile attorney pro-cards, train staff on office procedures
 
+
 *Outreach Intern*
 
 October 2018 - June 2019
@@ -66,6 +67,7 @@ July 2018 - August 2018
 - Audited and updated security sensitive logs, metrics, and employee information databases
 - **Reconstructed and edited** employee training handbook and reassessment manual
 - Supported staff in security emergencies; monitored security footage; **decreased administrative documentation backlogs**
+
 
 *Public Affairs Intern*
 
