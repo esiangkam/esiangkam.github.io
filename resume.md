@@ -24,7 +24,7 @@ Junior at the University of Washington studying Geography: Data Science and Envi
 
 September 2018 - December 2021
 
-- Deans List Autumn 2018, Spring 2020, Summer 2020, and Autumn 2021
+- Deans List Autumn 2018, Winter 2020, Spring 2020, Summer 2020, and Autumn 2020
 - BECU Foundation Scholar, Washington State Opportunity Scholar, Washington State Elks Association Scholar
 
 # Work Experience
